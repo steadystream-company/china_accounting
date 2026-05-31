@@ -1,0 +1,14 @@
+Sales Order,naming_series,options,SO-.YY.-
+Purchase Order,naming_series,options,PO-.YY.-
+Sales Invoice,naming_series,options,SINV-.YY.-
+Purchase Invoice,naming_series,options,PINV-.YY.-
+Delivery Note,naming_series,options,DN-.YY.-
+Purchase Receipt,naming_series,options,PR-.YY.-
+Stock Entry,naming_series,options,STE-.YY.-
+Journal Entry,naming_series,options,JV-.YY.-
+Work Order,naming_series,options,WO-.YY.-
+Pick List,naming_series,options,PL-.YY.-
+Quality Inspection,naming_series,options,QI-.YY.-
+Production Plan,naming_series,options,PP-.YY.-
+Material Request,naming_series,options,MR-.YY.-
+Stock Reconciliation,naming_series,options,SRECO-.YY.-
