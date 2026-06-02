@@ -42,6 +42,9 @@ def get_chart_data_from_csv(as_dict=False):
 				if not row[1]:
 					row[1] = row[0]
 					row[3] = row[2]
+				# v16: build_forest expects 8 columns including account_currency
+				if len(row) == 7:
+					row.append("")
 				data.append(row)
 	return data
 
